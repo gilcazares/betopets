@@ -587,7 +587,8 @@
 /* WhatsApp */
 .button-whatsapp {
 	--button-text:#ffffff;
-	--button-background:#455a64;
+	--button-background:#075e54;
+	--button-border:4px solid #128c7eFF;
 }
 
 /* WordPress */
@@ -627,6 +628,8 @@
 .button-zelle {
 	--button-text:#ffffff;
 	--button-background:#6D1ED4;
+	--button-border:4px solid #8f43f3;
+	
 }
 
 /* Zoom */
