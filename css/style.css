@@ -211,7 +211,7 @@ a:hover {
 	color-scheme:dark;
 }
 :root.theme-dark :focus-visible {
-	outline: 2px solid #4899F7;
+	outline: 4px solid #4899F7;
 	outline-offset: 2px;
   }
 :root.theme-dark body {
@@ -231,7 +231,7 @@ a:hover {
 }
 @media (prefers-color-scheme:dark) {
 	:root.theme-auto body {
-	background-color:#11176b;
+	background-color:#171825;
 	color:#ffffff;
 }
 :root.theme-auto :focus-visible {
